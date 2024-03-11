@@ -11,9 +11,9 @@
 
 ### Документация:
 
-Техническое задание\
-[Docx](documentation/Technical Assignment.docx)\
-[Pdf](documentation/Technical Assignment.pdf)\
+Техническое задание
+[Docx](documentation/Technical Assignment.docx)
+[Pdf](documentation/Technical Assignment.pdf)
 
 ### Сервисы
   [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)\
