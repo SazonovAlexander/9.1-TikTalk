@@ -1,12 +1,17 @@
 # 9.1
 
-### Задача 60.
-Мобильное приложение для прослушивания подкастов.
+### Проект "Мобильное приложение для прослушивания подкастов".
 
-### Студенты:
+### Название приложения "TikTalk".
+
+### Выполняют студенты группы 9, номер команды 9.1:
 - [Сазонов Александр](https://github.com/SazonovAlexander) - Тимлид, Дизайнер, PM, Frontend
-- [Сошич Мирослав](https://github.com/FunnyMogila) - Документация
+- [Сошич Мирослав](https://github.com/FunnyMogila) - Технический писатель
 - [Обухов Никита](https://github.com/AL1ATE) - Backend, Тестировщик
+
+### Документация:
+
+- Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.pdf)
 
 ### Сервисы
   [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)\
