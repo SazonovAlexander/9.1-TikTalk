@@ -25,7 +25,7 @@
 
 ### Видео
 
-- [(Видеопрезентация к 1 аттестации)](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
+- [Видеопрезентация к 1 аттестации](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
 
 ### Сервисы
   [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)\
