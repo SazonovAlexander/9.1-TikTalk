@@ -21,6 +21,11 @@
 
 - Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.pdf)
 - Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.pdf)
+- Презентация [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/presentation/9.1-presentation.pdf)
+
+### Видео
+
+- [(Видеопрезентация к 1 аттестации)](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
 
 ### Сервисы
   [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)\
