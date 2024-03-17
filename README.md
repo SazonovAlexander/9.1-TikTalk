@@ -20,6 +20,10 @@
 ### Документация:
 
 - Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.pdf)
+- Подтверждение корректного оформления Технического Задания[(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.pdf) [(PNG)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.png)
+
+### Презентация:
+
 - Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.pdf)
 - Презентация [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/presentation/9.1-presentation.pdf)
 
