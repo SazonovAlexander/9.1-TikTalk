@@ -13,9 +13,10 @@
 -  Удобная функция записи/загрузки подкаста вместе с его обработкой.
 
 ### Выполняют студенты группы 9, номер команды 9.1:
-- [Сазонов Александр](https://github.com/SazonovAlexander) - Тимлид, Дизайнер, PM, Frontend
-- [Сошич Мирослав](https://github.com/FunnyMogila) - Технический писатель
-- [Обухов Никита](https://github.com/AL1ATE) - Backend, Тестировщик
+- [Луговской Константин](https://github.com/Demiurge451) - Team Lead, Backend
+- [Сазонов Александр](https://github.com/SazonovAlexander) - Дизайнер, Mobile
+- [Сошич Мирослав](https://github.com/FunnyMogila) - Технический писатель, Бизнес-аналитик
+- [Негуляев Павел](https://github.com/Snoppei) - Frontend, Тестировщик
 
 ### Документация:
 
