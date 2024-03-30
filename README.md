@@ -20,12 +20,12 @@
 
 ### Документация:
 
-- Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Technical%20Assignment.pdf)
+- Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 - Подтверждение корректного оформления Технического Задания[(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.pdf) [(PNG)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.png)
 
 ### Презентация:
 
-- Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.docx) [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Cover%20letter.pdf)
+- Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
 - Презентация [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/presentation/9.1-presentation.pdf)
 
 ### Видео
