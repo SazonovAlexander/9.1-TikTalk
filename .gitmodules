@@ -1,0 +1,9 @@
+[submodule "application/9.1_TikTalk_mobile"]
+	path = application/9.1_TikTalk_mobile
+	url = https://github.com/SazonovAlexander/9.1_TikTalk_mobile.git
+[submodule "application/9.1_TikTalk_server"]
+	path = application/9.1_TikTalk_server
+	url = https://github.com/Demiurge451/tiktalk_backend.git  
+[submodule "application/9.1_TikTalk_web_admin"]
+	path = application/9.1_TikTalk_web_admin
+	url = https://github.com/Snoppei/tiktalk_frontend_web.git
