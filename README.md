@@ -26,9 +26,9 @@
 
 ### Приложение:
 
-- [mobile](https://github.com/SazonovAlexander/9.1_TikTalk_mobile/tree/1971573e802d8286b0700d4d81de639f408c672f)
-- [backend](https://github.com/Demiurge451/tiktalk_backend/tree/9dc53605a188518c3a704c37c69e1b560fc755cc)
-- [web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/fb7a331af873940a8679cec4481b8fb42104185b)
+- [Mobile](https://github.com/SazonovAlexander/9.1_TikTalk_mobile/tree/main)
+- [Backend](https://github.com/Demiurge451/tiktalk_backend/tree/master)
+- [Web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/master)
 
 ### Презентация:
 
