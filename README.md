@@ -24,6 +24,11 @@
 - Подтверждение корректного оформления Технического Задания [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.pdf) [(PNG)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.png)
 - Курсовой проект [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/course%20project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20TikTalk.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/course%20project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20TikTalk.pdf)
 
+### Приложение:
+
+- [mobile](https://github.com/SazonovAlexander/9.1_TikTalk_mobile/tree/1971573e802d8286b0700d4d81de639f408c672f)
+- [backend](https://github.com/Demiurge451/tiktalk_backend/tree/9dc53605a188518c3a704c37c69e1b560fc755cc)
+- [web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/fb7a331af873940a8679cec4481b8fb42104185b)
 
 ### Презентация:
 
