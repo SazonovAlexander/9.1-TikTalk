@@ -33,6 +33,7 @@
 ### Видео
 
 - [Видеопрезентация к 1 аттестации](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
+- [Видеопрезентация к 2 аттестации](https://drive.google.com/file/d/1jHy2YFILY7eOrh7Go9uXU_t5cDyT07Yl/view)
 
 ### Сервисы
   [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)\
