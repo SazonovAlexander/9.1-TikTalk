@@ -30,6 +30,13 @@
 - [Backend](https://github.com/Demiurge451/tiktalk_backend/tree/master)
 - [Web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/master)
 
+### Аналитика приложения:
+- Аналитическая платформа [AppMetrica](https://appmetrica.yandex.ru/overview?period=week&group=day&currency=rub&accuracy=medium&appId=4569310)
+
+|                       | Логин          | Пароль     |
+|-----------------------|----------------|------------|
+| Аккаунт для просмотра | talk.tik@ya.ru | 12Q12Q12qQ |
+
 ### Презентация:
 
 - Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/cover%20letter%20product/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/cover%20letter%20product/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
@@ -41,6 +48,7 @@
 - [Видеопрезентация к 1 аттестации](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
 - [Видеопрезентация к 2 аттестации](https://drive.google.com/file/d/1jHy2YFILY7eOrh7Go9uXU_t5cDyT07Yl/view)
 - [Видеопрезентация продукта](https://drive.google.com/file/d/1D29ndLVvTKMXk0eyth2k5CC1Xp_A7Mvb/view?usp=sharing)
+- [Видеообзор back-end приложения](https://drive.google.com/file/d/1w0jDCiVibf2peKq4ZC7MZXdT1TjckdIq/view?usp=sharing)
 
 ### Сервисы
 - [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)
