@@ -20,8 +20,8 @@
 
 ### Документация:
 
-- Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
-- Подтверждение корректного оформления Технического Задания [(PDF)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.pdf) [(PNG)](https://github.com/SazonovAlexander/9.1/blob/main/documentation/Formalization.png)
+- Техническое задание [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/technical%20assignment/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/technical%20assignment/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+- Подтверждение корректного оформления Технического Задания [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/technical%20assignment/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.pdf) [(PNG)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/technical%20assignment/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png)
 - Курсовой проект [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/course%20project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20TikTalk.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/course%20project/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20TikTalk.pdf)
 
 ### Приложение:
@@ -32,13 +32,15 @@
 
 ### Презентация:
 
-- Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
-- Презентация [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/presentation/presentation-ta-9.1.pdf)
+- Сопроводительное письмо [(Docx)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/cover%20letter%20product/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/documentation/cover%20letter%20product/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
+- Презентация Технического Задания [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/presentation/presentation%20TA/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pdf)
+- Презентация продукта [(PPTX)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/presentation/presentation%20product/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20TikTalk.pptx) [(PDF)](https://github.com/SazonovAlexander/9.1-TikTalk/blob/main/presentation/presentation%20product/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20TikTalk.pdf)
 
 ### Видео
 
 - [Видеопрезентация к 1 аттестации](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
 - [Видеопрезентация к 2 аттестации](https://drive.google.com/file/d/1jHy2YFILY7eOrh7Go9uXU_t5cDyT07Yl/view)
+- [Видеопрезентация продукта](https://drive.google.com/file/d/1D29ndLVvTKMXk0eyth2k5CC1Xp_A7Mvb/view?usp=sharing)
 
 ### Сервисы
 - [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)
