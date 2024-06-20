@@ -30,6 +30,15 @@
 - [Backend](https://github.com/Demiurge451/tiktalk_backend/tree/master)
 - [Web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/master)
 
+### Данные о приложении:
+- [Web-admin](https://github.com/SazonovAlexander/9.1_TikTalk_mobile/tree/main](https://web.tiktalkapp.ru/)
+
+|                       | Логин          | Пароль                               |
+|-----------------------|----------------|--------------------------------------|
+| Пользователь          | Konstantin     | Hpdfr36Zs                            |
+| Админ                 | WebAdmin1      | fc9767b6-e62b-4583-97bd-cb17690ccd28 |
+
+
 ### Аналитика приложения:
 - Аналитическая платформа [AppMetrica](https://appmetrica.yandex.ru/overview?period=week&group=day&currency=rub&accuracy=medium&appId=4569310)
 
@@ -49,6 +58,8 @@
 - [Видеопрезентация к 2 аттестации](https://drive.google.com/file/d/1jHy2YFILY7eOrh7Go9uXU_t5cDyT07Yl/view)
 - [Видеопрезентация продукта](https://drive.google.com/file/d/1D29ndLVvTKMXk0eyth2k5CC1Xp_A7Mvb/view?usp=sharing)
 - [Видеообзор back-end приложения](https://drive.google.com/file/d/1w0jDCiVibf2peKq4ZC7MZXdT1TjckdIq/view?usp=sharing)
+- [Видеообзор front-end приложения](https://drive.google.com/file/d/12ATpKeVbvbO8uV4niMrOkJBqaAOiuuAZ/view)
+- [Видеообзор mobile](https://drive.google.com/file/d/1w3DUMK649htI335L57Wd058RS3JJmbGS/view?usp=sharing)
 
 ### Сервисы
 - [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)
