@@ -41,6 +41,7 @@
 - [Видеопрезентация к 1 аттестации](https://drive.google.com/file/d/1-9fFKRcrjQMoqjNP__9CHRrd_KRXGrnZ/view)
 - [Видеопрезентация к 2 аттестации](https://drive.google.com/file/d/1jHy2YFILY7eOrh7Go9uXU_t5cDyT07Yl/view)
 - [Видеопрезентация продукта](https://drive.google.com/file/d/1D29ndLVvTKMXk0eyth2k5CC1Xp_A7Mvb/view?usp=sharing)
+- [Видеообзор back-end приложения](https://drive.google.com/file/d/1w0jDCiVibf2peKq4ZC7MZXdT1TjckdIq/view?usp=sharing)
 
 ### Сервисы
 - [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)
