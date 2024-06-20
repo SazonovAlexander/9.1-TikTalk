@@ -32,6 +32,7 @@
 
 ### Аналитика приложения:
 - Аналитическая платформа [AppMetrica](https://appmetrica.yandex.ru/overview?period=week&group=day&currency=rub&accuracy=medium&appId=4569310)
+
 |                       | Логин          | Пароль     |
 |-----------------------|----------------|------------|
 | Аккаунт для просмотра | talk.tik@ya.ru | 12Q12Q12qQ |
