@@ -31,7 +31,7 @@
 - [Web-admin](https://github.com/Snoppei/tiktalk_frontend_web/tree/master)
 
 ### Данные о приложении:
-- [Web-admin](https://github.com/SazonovAlexander/9.1_TikTalk_mobile/tree/main](https://web.tiktalkapp.ru/)
+- [Web-admin](https://web.tiktalkapp.ru/)
 
 |                       | Логин          | Пароль                               |
 |-----------------------|----------------|--------------------------------------|
