@@ -60,6 +60,7 @@
 - [Видеообзор back-end приложения](https://drive.google.com/file/d/1w0jDCiVibf2peKq4ZC7MZXdT1TjckdIq/view?usp=sharing)
 - [Видеообзор front-end приложения](https://drive.google.com/file/d/12ATpKeVbvbO8uV4niMrOkJBqaAOiuuAZ/view)
 - [Видеообзор mobile](https://drive.google.com/file/d/1w3DUMK649htI335L57Wd058RS3JJmbGS/view?usp=sharing)
+- [Видеообзор реализации mobile](https://drive.google.com/file/d/1BNVxyV7EOhjqAjAi71qYzA_MSiBSkcBN/view?usp=sharing)
 
 ### Сервисы
 - [Miro](https://miro.com/app/board/uXjVNsiiTFw=/)
